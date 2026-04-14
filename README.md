@@ -60,7 +60,7 @@ Abrir el archivo: index.html
 El desarrollo fue asistido por:
 
 - ChatGPT (OpenAI — GPT-5.3) como herramienta principal
-- Claude (Anthropic) para comparación puntual
+- Claude (Sonnet 4.6) para comparación puntual
 
 📄 Ver detalle completo en: IA-USO.md
 
