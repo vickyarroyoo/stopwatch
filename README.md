@@ -30,7 +30,7 @@ Evitar errores de sincronización
 ▶️ Cómo ejecutar
 Opción rápida
 Clonar el repositorio:
-git clone https://github.com/enzopazzelli/stopwatch.git
+git clone https://github.com/vickyarroyoo/stopwatch.git
 Abrir el archivo:
 index.html
 
