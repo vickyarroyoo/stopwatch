@@ -10,7 +10,7 @@ El sistema está basado en un **modelo de estados dinámicos**, que controla la 
 
 ## 🚀 Funcionalidades
 
-- Cronómetro digital en formato `HH:MM:SS.cc`
+- Cronómetro digital en formato `HH:MM:SS.mmm`
 - Sistema de estados:
   - ▶ Start
   - ⏸ Pause
