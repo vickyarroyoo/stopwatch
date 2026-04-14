@@ -9,7 +9,7 @@ Durante el desarrollo del proyecto se utilizó **Inteligencia Artificial** como 
 Se utilizaron los siguientes modelos:
 
 - **ChatGPT (OpenAI — GPT-5.3)** → herramienta principal  
-- **Claude (Anthropic)** → utilizado como comparación y validación secundaria  
+- **Claude (Sonnet 4.6)** → utilizado como comparación y validación secundaria  
 
 ChatGPT fue el asistente principal durante todo el desarrollo, mientras que Claude se utilizó puntualmente para contrastar soluciones y evaluar alternativas.
 
