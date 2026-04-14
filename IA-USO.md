@@ -117,7 +117,7 @@ Se corrigieron problemas de alineación logrando un layout consistente.
 
 ## 3. Evaluación de respuestas de la IA
 
-### ✅ Respuesta utilizada casi tal cual
+### ✅ Respuesta utilizada 
 
 La lógica de cálculo del tiempo:
 
@@ -132,7 +132,7 @@ La lógica de cálculo del tiempo:
 
 ---
 
-### ❌ Respuesta rechazada o corregida
+### ❌ Respuesta rechazada 
 
 En una etapa inicial, la IA propuso un **countdown timer**.
 
