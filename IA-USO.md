@@ -184,14 +184,14 @@ En este caso, se priorizó una implementación clara y suficiente para el reto, 
 
 ## 6. Reflexión sobre el uso de IA
 
-### ✔ Aportes
+#### ✔ Aportes
 
 - Aceleró la implementación inicial  
 - Permitió iterar rápidamente  
 - Ayudó a estructurar la lógica  
 - Mejoró la interfaz visual  
 
-### ❌ Limitaciones
+#### ❌ Limitaciones
 
 - Interpretaciones incorrectas en etapas iniciales  
 - Inclusión de funcionalidades fuera de alcance  
